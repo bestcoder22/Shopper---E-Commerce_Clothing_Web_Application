@@ -1,1 +1,1 @@
-# E-commerce-Website
+# Shopper - An E-Commerce Clothing Web Application
