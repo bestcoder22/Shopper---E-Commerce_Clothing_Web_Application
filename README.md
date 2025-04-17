@@ -141,10 +141,10 @@ The frontend will run on http://localhost:3000.
 
 ## Technologies Used
 
-- Frontend : React.js
-- Backend : Node.js, Express.js
-- Database : MongoDB
-- Admin Panel : Vite
+- **Frontend** : React.js
+- **Backend** : Node.js, Express.js
+- **Database** : MongoDB
+- **Admin Panel** : Vite
 
 ## Contact
 
