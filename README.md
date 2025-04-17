@@ -31,7 +31,6 @@ RESTful APIs were developed to optimize database interactions, reducing MongoDB 
 - [Usage](#usage)
 - [Screenshots](#screenshots)
 - [Technologies Used](#technologies-used)
-- [License](#license)
 - [Contact](#contact)
 
 ## Installation
@@ -106,7 +105,7 @@ The frontend will run on http://localhost:3000.
    ```
    The admin panel will run on http://localhost:5173.
 
-### Usage
+## Usage
 
 - User Functionality:
   - Browse and filter products by Men, Women, and Kids categories.
@@ -118,7 +117,7 @@ The frontend will run on http://localhost:3000.
   - View the entire product list from the database.
   - Monitor active sessions and cart persistency in real-time.
 
-### Screenshots
+## Screenshots
 
 - **Home Page**
   
@@ -140,14 +139,14 @@ The frontend will run on http://localhost:3000.
   
   ![image](https://github.com/user-attachments/assets/7850a730-d7ad-4b5b-9dfc-d5b29199711f)
 
-### Technologies Used
+## Technologies Used
 
 - Frontend : React.js
 - Backend : Node.js, Express.js
 - Database : MongoDB
 - Admin Panel : Vite
 
-### Contact
+## Contact
 
 For any inquiries or feedback, please contact:
 - Email : amrutkarsoham22@gmail.com
