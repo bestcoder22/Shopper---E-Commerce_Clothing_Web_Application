@@ -44,16 +44,16 @@ git clone https://github.com/bestcoder22/Shopper---E-Commerce_Clothing_Web_Appli
 
 ### Backend Setup
 1. Navigate to the Backend directory:
-```bash
-cd Backend
-```
+   ```bash
+   cd Backend
+   ```
 
 2. Install dependencies:
-```bash
-npm install
-```
+   ```bash
+   npm install
+   ```
 
-3. Configure the Database:
+4. Configure the Database:
 
 - Create a MongoDB Atlas database (or use a local MongoDB instance).
 
@@ -64,9 +64,9 @@ const uri = "mongodb+srv://<username>:<password>@cluster.mongodb.net/<database-n
 ```
 
 4. Run the Backend Server:
-```bash
-node server.js
-```
+   ```bash
+   node server.js
+   ```
 The backend server will run on http://localhost:4000.
 
 ### Frontend Setup
@@ -87,5 +87,38 @@ The backend server will run on http://localhost:4000.
    npm start
    ```
 The frontend will run on http://localhost:3000.
-   
 
+### Admin Panel Setup
+
+1. Navigate to the Admin Panel directory:
+   ```bash
+   cd AdminPanel
+   ```
+
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+3. Run the Admin Panel using Vite:
+   ```bash
+   npm run dev
+   ```
+   The admin panel will run on http://localhost:5173.
+
+### Usage
+
+- User Functionality:
+  - Browse and filter products by Men, Women, and Kids categories.
+  - Add products to the cart, view total pricing, and complete secure transactions.
+  - User registration and login features protect the user data and session.
+
+- Admin Functionality:
+  - Manage products by adding or removing items.
+  - View the entire product list from the database.
+  - Monitor active sessions and cart persistency in real-time.
+
+### Screenshots
+
+- Home Page
+  ![Home Page](C:/Users/Lenovo/Pictures/Screenshot 2025-04-17 133411.png)
