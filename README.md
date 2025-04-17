@@ -40,30 +40,30 @@ RESTful APIs were developed to optimize database interactions, reducing MongoDB 
 Clone the repository using the following command:
 ```bash
 git clone https://github.com/bestcoder22/Shopper---E-Commerce_Clothing_Web_Application.git
-'''
+```
 
 ### Backend Setup
 1.Navigate to the Backend directory:
 ```bash
 cd Backend
-'''
+```
 
 2.Install dependencies:
-'''bash
+```bash
 npm install
-'''
+```
 
 3.Configure the Database:
 -Create a MongoDB Atlas database (or use a local MongoDB instance).
 -Update the connection string in the server.js file as shown below:
-'''javascript
+```javascript
 const uri = "mongodb+srv://<username>:<password>@cluster.mongodb.net/<database-name>";
-'''
+```
 
 4.Run the Backend Server:
-'''bash
+```bash
 node server.js
-'''
+```
 The backend server will run on http://localhost:4000.
 
 
