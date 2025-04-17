@@ -123,21 +123,31 @@ The frontend will run on http://localhost:3000.
   
   ![Screenshot 2025-04-17 133411](https://github.com/user-attachments/assets/1bdbbfe9-45c3-442e-a3ef-875c92640282)
 
+  
+
 - **Men Section (similarly for womens and kids section)**
   
   ![Screenshot 2025-04-17 133443](https://github.com/user-attachments/assets/5e65126a-be0f-4392-ac9c-2dbc6669e509)
+
+  
 
 - **Login Page**
   
   ![Screenshot 2025-04-17 133516](https://github.com/user-attachments/assets/6fd573f6-6702-4d85-9f63-81e8472c53d4)
 
+  
+
 - **Cart Section**
   
   ![Screenshot 2025-04-17 133538](https://github.com/user-attachments/assets/0fcda961-05f0-4838-b253-706497143b64)
 
+  
+
 - **Admin Panel**
   
   ![image](https://github.com/user-attachments/assets/7850a730-d7ad-4b5b-9dfc-d5b29199711f)
+
+  
 
 ## Technologies Used
 
