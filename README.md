@@ -43,24 +43,27 @@ git clone https://github.com/bestcoder22/Shopper---E-Commerce_Clothing_Web_Appli
 ```
 
 ### Backend Setup
-1.Navigate to the Backend directory:
+1. Navigate to the Backend directory:
 ```bash
 cd Backend
 ```
 
-2.Install dependencies:
+2. Install dependencies:
 ```bash
 npm install
 ```
 
-3.Configure the Database:
+3. Configure the Database:
+
 -Create a MongoDB Atlas database (or use a local MongoDB instance).
+
 -Update the connection string in the server.js file as shown below:
+
 ```javascript
 const uri = "mongodb+srv://<username>:<password>@cluster.mongodb.net/<database-name>";
 ```
 
-4.Run the Backend Server:
+4. Run the Backend Server:
 ```bash
 node server.js
 ```
