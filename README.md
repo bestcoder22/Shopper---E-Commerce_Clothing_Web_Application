@@ -55,9 +55,9 @@ npm install
 
 3. Configure the Database:
 
--Create a MongoDB Atlas database (or use a local MongoDB instance).
+- Create a MongoDB Atlas database (or use a local MongoDB instance).
 
--Update the connection string in the server.js file as shown below:
+- Update the connection string in the server.js file as shown below:
 
 ```javascript
 const uri = "mongodb+srv://<username>:<password>@cluster.mongodb.net/<database-name>";
@@ -69,4 +69,23 @@ node server.js
 ```
 The backend server will run on http://localhost:4000.
 
+### Frontend Setup
+
+1. Navigate to the Frontend directory:
+   ```bash
+   cd Frontend
+   ```
+
+
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+3. Run the React development server:
+   ```bash
+   npm start
+   ```
+The frontend will run on http://localhost:3000.
+   
 
